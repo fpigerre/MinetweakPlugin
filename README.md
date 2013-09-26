@@ -1,4 +1,4 @@
-MinetweakPlugin [![Build Status](https://travis-ci.org/psgs/MinetweakPlugin.png?branch=master)](https://travis-ci.org/psgs/MinetweakPlugin)
+MinetweakPlugin [![Build Status](https://travis-ci.org/psgs/MinetweakPlugin.png?branch=0.6.8)](https://travis-ci.org/psgs/MinetweakPlugin)
 ===============
 
 [![Minetweak](https://minetweak.atlassian.net/s/en_USk5r23l-1988229788/6144/51/_/jira-logo-scaled.png)
