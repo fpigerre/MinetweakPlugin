@@ -1,0 +1,8 @@
+
+
+{
+  "name": "Minetweak Plugin",
+  "main": "io.github.psgs.minetweakplugin.MinetweakPlugin",
+  "author": "psgs",
+  "description": "A plugin utilizing the Minetweak API, encompassing as many of Minetweak's features as possible."
+}
