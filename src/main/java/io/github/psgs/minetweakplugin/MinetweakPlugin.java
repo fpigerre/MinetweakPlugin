@@ -1,7 +1,5 @@
 package io.github.psgs.minetweakplugin;
 
-import org.minetweak.plugins.Plugin;
-import org.minetweak.plugins.event.PluginEnableEvent;
 import org.minetweak.event.plugin.PluginEnableEvent;
 import org.minetweak.plugins.Plugin;
 import org.minetweak.util.TweakLogger;
