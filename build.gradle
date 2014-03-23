@@ -1,12 +1,26 @@
 apply plugin: 'java'
- 
+apply plugin: 'versions'
+
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+
+    dependencies {
+        classpath 'com.github.ben-manes:gradle-versions-plugin:0.4'
+    }
+}
+
+ext.version = '1.2'
+ext.tweakVersion = '0.7.0'
+
 repositories {
     maven {
         url 'https://oss.sonatype.org/content/repositories/snapshots/'
     }
     mavenCentral()
 }
- 
+
 dependencies {
-    compile 'org.minetweak:Minetweak:0.6.8-SNAPSHOT'
+    compile 'org.minetweak:Minetweak:0.7.0-SNAPSHOT'
 }
